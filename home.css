@@ -1,0 +1,111 @@
+
+.commentsAdd>h3 {
+  color: #2ea3f2;
+  background: #f1f1f1 !important;
+  width: 690px;
+}
+.accordion-body{width:50%;
+  margin-left: auto;
+  margin-right: auto;}
+.commnentsAdd {
+  background-color: #fff;
+}
+#comment {
+  width: 770px;
+  border: 1px solid #dedede;
+  padding: 1.4%;
+  line-height: 20px;
+  height: 169px;
+  background: #fafafa;
+  text-transform: none;
+  color: silver;
+  font-size: 14px;
+}
+
+#author {
+  height: 48px;
+  width: 770px;
+}
+
+#email {
+  height: 48px;
+  width: 770px;
+}
+
+#url {
+  height: 48px;
+  width: 770px;
+}
+
+#comment {
+  transition: all .25s ease-in-out;
+}
+
+
+.bottom-x {
+  background: #222;
+  color: #fff;
+  text-shadow: none;
+  
+}
+
+
+.box {
+  background: rgb(225, 226, 228);
+  color: rgb(114, 110, 110);
+  text-shadow: none;
+
+}
+
+.custom_featured>b{ color:#6b6f6e ;}}
+.note {background: #222;
+  color: #fff;
+  text-shadow: none;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  margin: 0 auto;
+  clear: both;
+  max-width: 100%;
+  font-size: 14px;}
+
+.top {
+  background: #222;
+  color:#888;
+  text-shadow: none;
+}
+.col-lg-3{color: #888;}
+
+#submit {
+  background-color: #ba291f;
+  color: #fff !important;
+}
+
+.submit {
+  background-color: darkorange;
+  color: #fff !important;
+}
+
+
+.menu a {
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 16px;
+  color: #e6eceb;
+  text-transform: uppercase;
+}
+
+ 
+
+.footer_featured{background-color: rgb(246, 252, 246);
+}
+.customNavigation{width:50%;
+  margin-left: auto;
+  margin-right: auto;}
+.item{width:50%;
+    margin-left: auto;
+    margin-right: auto;}
+.fa-angle-up{ float:right;
+color: #ba291f;}
+.coppy{color: #888 ;}
+.menu a{color: #888;}
